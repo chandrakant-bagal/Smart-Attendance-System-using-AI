@@ -64,4 +64,4 @@ Contact
 chandrakant-bagal
 LinkedIn: https://www.linkedin.com/in/chandrakant-bagal-ai/
 
-GitHub: https://github.com/chandrakant-bagal/Smart-Attendance-System-with-AI-based
+GitHub:https://github.com/chandrakant-bagal/Smart-Attendance-System-using-AI 
